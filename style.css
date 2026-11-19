@@ -434,6 +434,8 @@ nav .right .btn:hover {
   align-items: center;
   position: relative;
   padding-top: 90px;
+  overflow: clip;
+  z-index: 0;
 }
 
 #test::before {
